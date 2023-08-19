@@ -1,9 +1,13 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Authors>Abdallah</Authors>
+    <Company>Full Stack</Company>
+    <Product>Metigator.NumberSystem</Product>
+    <Description>Convert between numbers from different bases</Description>
   </PropertyGroup>
 
 </Project>
