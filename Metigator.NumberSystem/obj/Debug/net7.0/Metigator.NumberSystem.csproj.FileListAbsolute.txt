@@ -1,0 +1,12 @@
+C:\Users\COMPUMARTS\source\repos\Metigator.NumberSystem\Metigator.NumberSystem\obj\Debug\net7.0\Metigator.NumberSystem.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\Metigator.NumberSystem\Metigator.NumberSystem\obj\Debug\net7.0\Metigator.NumberSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\Metigator.NumberSystem\Metigator.NumberSystem\obj\Debug\net7.0\Metigator.NumberSystem.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\Metigator.NumberSystem\Metigator.NumberSystem\obj\Debug\net7.0\Metigator.NumberSystem.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\Metigator.NumberSystem\Metigator.NumberSystem\obj\Debug\net7.0\Metigator.NumberSystem.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\Metigator.NumberSystem\Metigator.NumberSystem\bin\Debug\net7.0\Metigator.NumberSystem.deps.json
+C:\Users\COMPUMARTS\source\repos\Metigator.NumberSystem\Metigator.NumberSystem\bin\Debug\net7.0\Metigator.NumberSystem.dll
+C:\Users\COMPUMARTS\source\repos\Metigator.NumberSystem\Metigator.NumberSystem\bin\Debug\net7.0\Metigator.NumberSystem.pdb
+C:\Users\COMPUMARTS\source\repos\Metigator.NumberSystem\Metigator.NumberSystem\obj\Debug\net7.0\Metigator.NumberSystem.dll
+C:\Users\COMPUMARTS\source\repos\Metigator.NumberSystem\Metigator.NumberSystem\obj\Debug\net7.0\refint\Metigator.NumberSystem.dll
+C:\Users\COMPUMARTS\source\repos\Metigator.NumberSystem\Metigator.NumberSystem\obj\Debug\net7.0\Metigator.NumberSystem.pdb
+C:\Users\COMPUMARTS\source\repos\Metigator.NumberSystem\Metigator.NumberSystem\obj\Debug\net7.0\ref\Metigator.NumberSystem.dll
